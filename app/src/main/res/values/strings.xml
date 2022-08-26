@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DicodingSubmision</string>
+    <string name="dicoding_student">Dicoding Student</string>
+    <string name="image">Image</string>
+    <string name="txt_description">Description</string>
+    <string name="txt_about_me">About Me</string>
+    <string name="txt_detail">Detail</string>
+    <string name="fotopp">FotoPP</string>
+    <string name="txt_name">Dzakwan Nashif Putera Hermawan</string>
+    <string name="txt_email">dzakwannph.study@gmail.com</string>
+    <string name="txt_no_telp">081289804484</string>
+    <string name="description">Description</string>
+    <string name="txt_desc">Hello 👋🏻, My name is Dzakwan Nashif Putera Hermawan And u can call me Dzakwan I live in South Jakarta And I\'m born at January 10 2006 and now i\'m the student at SMK IDN Boarding School And i\'m studying in Software Engineering.., soo that\'s all from me and thank you.</string>
+    <string name="txt_profile">Profile</string>
+    <string name="txt_back">Back</string>
+</resources>
